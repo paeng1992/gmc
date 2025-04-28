@@ -6,7 +6,7 @@ pkg install python
 
 pkg install python-pip
 
-git clone https://github.com/2rum006/gmc.git
+git clone https://github.com/paeng1992/gmc.git
 
 cd gmc
 
